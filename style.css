@@ -31,7 +31,7 @@
   float: left;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end
  }
  ul li{
   list-style: none;
@@ -252,4 +252,4 @@ color: #fff ;
 
 
 
-     t
+     

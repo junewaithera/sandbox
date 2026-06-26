@@ -163,7 +163,7 @@ margin-top:none;
  .form input{
   width: 240px; 
   height :35px;
-  background: transparent;
+  background: blue;
   border-bottom: 1px solid #ff7200;
     border-top: none;
     border-right: none;
